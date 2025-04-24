@@ -1,0 +1,83 @@
+ERROR NEURONS (error trials >=10) w/ threshold = 2
+Region AMY:
+Total neurons relevant for analysis: 596
+Neurons with at least one significant cluster (p < 0.05): 130
+Percent: 22%
+Region HIP:
+Total neurons relevant for analysis: 300
+Neurons with at least one significant cluster (p < 0.05): 74
+Percent: 25%
+Region ACC:
+Total neurons relevant for analysis: 475
+Neurons with at least one significant cluster (p < 0.05): 142
+Percent: 30%
+Region SMA:
+Total neurons relevant for analysis: 531
+Neurons with at least one significant cluster (p < 0.05): 157
+Percent: 30%
+Region OFC:
+n/a
+
+ERROR NEURONS (error trials >=5) w/ threshold = 2
+Region AMY:
+Total neurons relevant for analysis: 696
+Neurons with at least one significant cluster (p < 0.05): 140
+Percent: 20%
+Region HIP:
+Total neurons relevant for analysis: 333
+Neurons with at least one significant cluster (p < 0.05): 77
+Percent: 23%
+Region ACC:
+Total neurons relevant for analysis: 500
+Neurons with at least one significant cluster (p < 0.05): 149
+Percent: 30%
+Region SMA:
+Total neurons relevant for analysis: 536
+Neurons with at least one significant cluster (p < 0.05): 160 
+Percent: 30%
+Region OFC:
+n/a 
+
+CONFLICT NEURONS (error trials >=10) w/ threshold = 3
+Region:  AMY
+Total neurons relevant for analysis: 977
+Neurons with at least one significant cluster (p < 0.05): 342
+Percent: 35%
+Region:  HIP
+Total neurons relevant for analysis: 626
+Neurons with at least one significant cluster (p < 0.05): 234
+Percent: 37%
+Region:  ACC
+Total neurons relevant for analysis: 821
+Neurons with at least one significant cluster (p < 0.05): 352
+Percent: 43%
+Region:  SMA
+Total neurons relevant for analysis: 787
+Neurons with at least one significant cluster (p < 0.05): 408
+Percent: 52%
+Region:  OFC
+Total neurons relevant for analysis: 56
+Neurons with at least one significant cluster (p < 0.05): 23
+Percent: 41%
+
+CONFLICT NEURONS (error trials >=10) w/ threshold = 2
+Region:  AMY
+Total neurons relevant for analysis: 977
+Neurons with at least one significant cluster (p < 0.05): 353
+Percent: 36%
+Region:  HIP
+Total neurons relevant for analysis: 626
+Neurons with at least one significant cluster (p < 0.05): 245
+Percent: 39%
+Region:  ACC
+Total neurons relevant for analysis: 821
+Neurons with at least one significant cluster (p < 0.05): 372
+Percent: 45%
+Region:  SMA
+Total neurons relevant for analysis: 787
+Neurons with at least one significant cluster (p < 0.05): 433
+Percent: 55%
+Region:  OFC
+Total neurons relevant for analysis: 56
+Neurons with at least one significant cluster (p < 0.05): 24
+Percent: 43%
