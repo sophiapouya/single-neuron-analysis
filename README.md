@@ -21,6 +21,7 @@ single-neuron-analysis/
 2. **Exploratory Analysis**
    - Firing rate visualizations  
    - Raster plots and peri-stimulus time histograms (PSTHs)
+   - Permutation-based cluster analysis to identify periods of significant firing
 
 3. **Statistical Testing**
    - Trial-wise comparisons (e.g., correct vs. error)  
